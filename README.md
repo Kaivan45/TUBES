@@ -52,14 +52,14 @@ Data kedua: 1,2,3,4,5
 ### Data Pertama ([5, 1, 2, 4, 3]):
 | Metode    | Output Terurut   | Waktu (detik) |
 |-----------|------------------|---------------|
-| Iteratif  | [1, 2, 3, 4, 5]  | 0.000002      |
-| Rekursif  | [1, 2, 3, 4, 5]  | 0.000001      |
+| Iteratif  | [1, 2, 3, 4, 5]  | 0.000010      |
+| Rekursif  | [1, 2, 3, 4, 5]  | 0.000006      |
 
 ### Data Kedua ([1, 2, 3, 4, 5]):
 | Metode    | Output Terurut   | Waktu (detik) |
 |-----------|------------------|---------------|
-| Iteratif  | [1, 2, 3, 4, 5]  | 0.000001      |
-| Rekursif  | [1, 2, 3, 4, 5]  | 0.000000      |
+| Iteratif  | [1, 2, 3, 4, 5]  | 0.000003      |
+| Rekursif  | [1, 2, 3, 4, 5]  | 0.000002      |
 
 **Perbandingan Grafik:**
 
