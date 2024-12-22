@@ -67,8 +67,6 @@ Grafik batang yang menampilkan perbandingan waktu antara metode iteratif dan rek
 
 ## Kesimpulan
 
-- **Metode rekursif** dari Insertion Sort sedikit lebih cepat daripada metode iteratif untuk kedua data yang tidak terurut dan terurut.
-- **Data terurut** mengarah pada proses pengurutan yang lebih efisien karena hanya membutuhkan sedikit operasi.
-- Program ini merupakan demonstrasi sederhana perbedaan kinerja antara pendekatan iteratif dan rekursif untuk algoritma Insertion Sort.
+Data yang tidak terurut membutuhkan waktu lebih lama untuk diurutkan karena melibatkan lebih banyak operasi perbandingan dan pergeseran elemen. Sementara itu, data terurut lebih efisien dengan waktu eksekusi yang lebih cepat. Metode rekursif sedikit lebih cepat dibandingkan metode iteratif pada saat mengurutkan data.
 
 
