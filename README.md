@@ -1,9 +1,7 @@
-# TUBES AKA
+# Analisis Komparatif Insertion Sort pada Data Terurut dan Tidak Terurut
 
 Muhammad Raffi - 231110211,
 Fajar Ario Abdillah - 2311102114
-
-# Analisis Komparatif Insertion Sort pada Data Terurut dan Tidak Terurut
 
 Program ini berisi implementasi algoritma Insertion Sort dalam bentuk iteratif dan rekursif menggunakan Python. Program ini mengukur dan membandingkan waktu eksekusi kedua metode pada dua set data input: satu data yang tidak terurut dan satu data yang sudah terurut. Hasilnya ditampilkan dalam format tabel dan grafik.
 
