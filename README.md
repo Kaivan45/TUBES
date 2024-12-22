@@ -55,7 +55,7 @@ Data kedua: 1,2,3,4,5
 
 **Perbandingan Grafik:**
 
-Grafik batang yang menampilkan perbandingan waktu antara metode iteratif dan rekursif untuk kedua dataset.
+![Figure_1](https://github.com/user-attachments/assets/58f41ffd-22e8-458f-9f7e-5b41058aa091)
 
 ## Kesimpulan
 
