@@ -1,7 +1,9 @@
 # Analisis Komparatif Insertion Sort pada Data Terurut dan Tidak Terurut
 
-Muhammad Raffi - 231110211,
-Fajar Ario Abdillah - 2311102114
+Nama Kelompok
+- Muhammad Raffi - 231110211
+- Fajar Ario Abdillah - 2311102114
+IF - 11 - 04
 
 Program ini berisi implementasi algoritma Insertion Sort dalam bentuk iteratif dan rekursif menggunakan Python. Program ini mengukur dan membandingkan waktu eksekusi kedua metode pada dua set data input: satu data yang tidak terurut dan satu data yang sudah terurut. Hasilnya ditampilkan dalam format tabel dan grafik.
 
@@ -12,18 +14,6 @@ Program ini berisi implementasi algoritma Insertion Sort dalam bentuk iteratif d
 - **Pengukuran Kinerja**: Mengukur dan membandingkan waktu eksekusi untuk kedua metode.
 - **Tampilan Hasil**: Menampilkan output yang sudah diurutkan dan waktu eksekusinya dalam format tabel dan grafik.
 
-## Persyaratan
-
-Sebelum menjalankan skrip ini, Anda perlu menginstal dependensi berikut:
-
-- `matplotlib` untuk menggambar grafik
-- `prettytable` untuk menampilkan hasil dalam format tabel
-
-Anda dapat menginstal dependensi tersebut menggunakan `pip`:
-
-```bash
-pip install matplotlib prettytable
-```
 
 ## Penggunaan
 
