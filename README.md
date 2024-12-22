@@ -1,6 +1,6 @@
 # TUBES
 
-Muhammad Raffi - 231110211
+Muhammad Raffi - 231110211,
 Fajar Ario Abdillah - 2311102114
 
 # Perbandingan Insertion Sort pada Data Terurut dan Tidak Terurut
